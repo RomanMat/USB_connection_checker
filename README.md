@@ -1,1 +1,1 @@
-# USB_connection_checker. Project for university.
+# USB connection checker. Project for university.
